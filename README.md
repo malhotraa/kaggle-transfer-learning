@@ -1,3 +1,3 @@
 # Kaggle transfer learning
 
-Contains code for the Kaggle transfer learning challange
+Contains all artifacts for the Kaggle transfer learning challange
